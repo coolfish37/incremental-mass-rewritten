@@ -67,7 +67,7 @@ const RANKS = {
     },
     desc: {
         rank: {
-            '1': "unlock mass upgrade 1.",
+            '1': "unlock mass upgrade 1, gives 10% more nicos per rank",
             '2': "unlock mass upgrade 2, reduce mass upgrade 1 scaling by 20%.",
             '3': "unlock mass upgrade 3, reduce mass upgrade 2 scaling by 20%, and mass upgrade 1 boosts itself.",
             '4': "reduce mass upgrade 3 scaling by 20%.",
@@ -87,7 +87,7 @@ const RANKS = {
             '800': "make mass gain softcap 0.25% weaker based on rank, hardcaps at 25%.",
         },
         tier: {
-            '1': "reduce rank requirements by 20%.",
+            '1': "reduce rank requirements by 20%, give 10 percent more nicos per teir",
             '2': "raise mass gain by 1.15",
             '3': "reduce all mass upgrade scalings by 20%.",
             '4': "adds +5% tickspeed power for every tier you have, softcaps at +40%.",
