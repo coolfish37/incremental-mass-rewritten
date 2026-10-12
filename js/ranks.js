@@ -72,7 +72,7 @@ const RANKS = {
             '3': "unlock mass upgrade 3, reduce mass upgrade 2 scaling by 20%, and mass upgrade 1 boosts itself.",
             '4': "reduce mass upgrade 3 scaling by 20%.",
             '5': "mass upgrade 2 boosts itself.",
-            '6': "boost mass gain by (x+1)^2, where x is rank.",
+            '6': "boost mass gain by (x+1)^2, where x is ran, also nico is pretty tuff",
             '13': "triple mass gain.",
             '14': "double Rage Powers gain.",
             '17': "Rank 6 reward effect is better. [(x+1)^2 -> (x+1)^x^1/3]",
